@@ -1,4 +1,4 @@
-# The default keymap for Helix rev3 5rows
+# My custom keymap for Helix rev3 5rows
 
 ### Qwerty Layer (Base)
 ```
